@@ -40,13 +40,10 @@ bacod = ['Mozilla/4.0 (compatible; MSIE 5.0; SunOS 5.10 sun4u; X11)',
 		   'Mozilla/4.0 (compatible; MSIE 5.0; Windows ME) Opera 5.11 [en]']
 #Hargai Pembuat!.. Coding Ga Gampang!..
 gblk = ['http://google.com','http://bing.com','http://facebook.com','http://twitter.com','http://yahoo.com']
-print B+G+""
 print " _     _           __"
 print "_______________"
 print "< D1ARK - VA4U3 >"
 print "_______________"
-print "
-print B+R+""
 print "   __   ___     __"
 print " _____             _     __      __"
 print "  |  __ \           | |    \ \    / /"
