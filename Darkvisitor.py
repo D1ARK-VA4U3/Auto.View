@@ -42,7 +42,6 @@ bacod = ['Mozilla/4.0 (compatible; MSIE 5.0; SunOS 5.10 sun4u; X11)',
 gblk = ['http://google.com','http://bing.com','http://facebook.com','http://twitter.com','http://yahoo.com']
 print B+G+""
 print " _     _           __"
-print "
 print "_______________"
 print "< D1ARK - VA4U3 >"
 print "_______________"
@@ -51,7 +50,7 @@ print B+R+""
 print "   __   ___     __"
 print " _____             _     __      __"
 print "  |  __ \           | |    \ \    / /"
-print "  | |  | | __ _ _ __| | __  \ \  / /_ _ _"   _
+print "  | |  | | __ _ _ __| | __  \ \  / /_ _ _"   _"
 print "  | |  | |/ _` | '__| |/ /   \ \/ / _` | | | |"
 print "  | |__| | (_| | |  |   <     \  / (_| | |_| |"
 print "  |_____/ \__,_|_|  |_|\_\     \/ \__,_|\__,_|"
